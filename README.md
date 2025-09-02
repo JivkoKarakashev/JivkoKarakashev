@@ -2,7 +2,7 @@
 
 <div text-align="center" height="200px">
     <a href="https://git.io/streak-stats">
-        <img height="165px" width="auto" src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=one-dark-pro&card_height=165" alt="GitHub Streak" />
+        <img height="165px" width="auto" src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=one-dark-pro" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="165px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
