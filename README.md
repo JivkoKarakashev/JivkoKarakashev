@@ -1,5 +1,3 @@
-<!-- ## Hi there 👋 I am Jivko -->
-
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
 <div text-align="center" height="200px">
@@ -14,6 +12,9 @@
 ## 🌐 Let’s Connect
 
 <div text-align="center" height="200px">
+    <a href="https://portfolio.jivkokarakashev.dev/">
+        <img height="96px" width="auto" src="public/static/icons/website.png" />
+    </a>
     <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
         <img height="96px" width="auto" src="public/static/icons/linkedin.svg" />
     </a>
@@ -27,8 +28,8 @@
         <img height="96px" width="auto" src="public/static/icons/instagram.svg" />
     </a>
 </div>
-<!--
-**JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,5 +40,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
