@@ -2,6 +2,10 @@
 
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
+<picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true" />
+</picture>
+
 <!--
 **JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
