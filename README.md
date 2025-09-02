@@ -4,8 +4,6 @@
 
 <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true&theme=dark&include_all_commits=true" />
-</picture>
-<picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
 </picture>
 
