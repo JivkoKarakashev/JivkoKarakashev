@@ -3,12 +3,8 @@
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=dark&card_height=175" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/JivkoKarakashev/github-readme-stats" text-align="center" width="100%">
     <div height="200px">
-        <!-- <img height="165px" width="auto" src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true&theme=dark&include_all_commits=true" /> -->
+        <img height="165px" width="auto" src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=one-dark-pro&card_height=165" alt="GitHub Streak" />
         <img height="165px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
     </div>
 </a>
