@@ -20,6 +20,12 @@
     <a href="https://x.com/JKarakashev">
         <img height="96px" width="auto" src="public/static/icons/twitter.svg" />
     </a>
+    <a href="https://discordapp.com/users/446352307106349057">
+        <img height="96px" width="auto" src="public/static/icons/discord.svg" />
+    </a>
+    <a href="https://ig.me/m/jivko.karakashev">
+        <img height="96px" width="auto" src="public/static/icons/instagram.svg" />
+    </a>
 </div>
 <!--
 **JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
