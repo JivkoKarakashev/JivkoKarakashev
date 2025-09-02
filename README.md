@@ -16,7 +16,7 @@
 <div text-align="center" height="200px">
     <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
         <!-- <img height="96px" width="auto" src="public/static/icons/linkedin.svg" /> -->
-        ![](public/static/icons/linkedin.svg){ width="auto" height="96" style="display: block; margin: 0 auto" }
+        ![linkedIn Icon](public/static/icons/linkedin.svg)
     </a>
     <!-- <a href="https://x.com/JKarakashev">
         <img height="96px" width="auto" src="public/static/icons/twitter.svg" />
