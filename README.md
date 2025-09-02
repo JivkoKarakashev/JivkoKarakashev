@@ -6,11 +6,18 @@
     <a href="https://git.io/streak-stats">
         <img height="165px" width="auto" src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=one-dark-pro&card_height=165" alt="GitHub Streak" />
     </a>
-    <a href="https://git.io/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="165px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
     </a>
 </div>
 
+## 🌐 Let’s Connect
+
+<div height="200px">
+    <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
+        <img height="96px" width="auto" src="public/static/icons/linkedin.svg" />
+    </a>
+</div>
 <!--
 **JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
