@@ -2,11 +2,9 @@
 
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
-<a href="https://github.com/JivkoKarakashev/github-readme-stats"> 
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true&theme=dark&include_all_commits=true" />
-</a>
-<a href="https://github.com/JivkoKarakashev/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
+<a href="https://github.com/JivkoKarakashev/github-readme-stats" text-align="center" width="100%"> 
+    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true&theme=dark&include_all_commits=true" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
 </a>
 
 <!--
