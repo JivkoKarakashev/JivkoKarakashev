@@ -17,6 +17,9 @@
     <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
         <img height="96px" width="auto" src="public/static/icons/linkedin.svg" />
     </a>
+    <a href="https://x.com/JKarakashev">
+        <img height="96px" width="auto" src="public/static/icons/twitter.svg" />
+    </a>
 </div>
 <!--
 **JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
