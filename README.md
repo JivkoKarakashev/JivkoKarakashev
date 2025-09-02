@@ -1,5 +1,6 @@
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JivkoKarakashev&theme=one-dark-pro)](https://git.io/streak-stats)
 <div text-align="center" height="200px">
     <a href="https://git.io/streak-stats">
         <img height="165px" width="auto" src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=one-dark-pro" alt="GitHub Streak" />
