@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 I am Jivko -->
 
-## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&animation=fadeIn&text=Hi%20there%20👋%20I%20am%20Jivko&desc=💻" />
+## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
 <!--
 **JivkoKarakashev/JivkoKarakashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
