@@ -4,8 +4,8 @@
 
 <a href="https://github.com/JivkoKarakashev/github-readme-stats" text-align="center" width="100%">
     <div height="200px">
-        <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true&theme=dark&include_all_commits=true" />
-        <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
+        <img height="190px" width="auto" src="https://github-readme-stats.vercel.app/api?username=JivkoKarakashev&show_icons=true&theme=dark&include_all_commits=true" />
+        <img height="190px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
     </div>
 </a>
 
