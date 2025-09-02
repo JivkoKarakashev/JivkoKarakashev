@@ -2,7 +2,7 @@
 
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
-<div height="200px">
+<div text-align="center" height="200px">
     <a href="https://git.io/streak-stats">
         <img height="165px" width="auto" src="https://streak-stats.demolab.com?user=JivkoKarakashev&theme=one-dark-pro&card_height=165" alt="GitHub Streak" />
     </a>
@@ -13,7 +13,7 @@
 
 ## 🌐 Let’s Connect
 
-<div height="200px">
+<div text-align="center" height="200px">
     <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
         <img height="96px" width="auto" src="public/static/icons/linkedin.svg" />
     </a>
