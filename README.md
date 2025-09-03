@@ -40,6 +40,10 @@
     <a href="https://angular.dev/">
         <img alt="Angular Badge" src="https://img.shields.io/badge/%20-Angular-%20?style=for-the-badge&logo=angular&logoColor=de0837&color=de0837&labelColor=ffffff">
     </a>
+&nbsp;
+    <a href="https://expressjs.com/">
+        <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=383838&color=ffffff&labelColor=ffffff">
+    </a>
 </div>
 
 ## 🌐 Let’s Connect
