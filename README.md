@@ -52,8 +52,7 @@
         <img alt="NodedDotJs Badge" src="https://img.shields.io/badge/%20-Node.js-%20?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&color=5FA04E&labelColor=ffffff">
     </a>
     <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" src="https://img.shields.io/badge/-?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij4KICA8cGF0aCBmaWxsPSIjMDA3QUNDIiBkPSJNMTI4IDBMMjU2IDY0djEyOGwtMTI4IDY0TDAgMTkyVjY0eiIvPgogIDxwYXRoIGZpbGw9IiMxRTlGRkYiIGQ9Ik0xMjggMHYyNTZsMTI4LTY0VjY0eiIvPgogIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik02NCA5Mmw2NCAzNnYtNzJ6TTY0IDE2NGw2NC0zNnY3MnoiLz4KPC9zdmc+&color=007ACC">
-    <!-- <img alt="VS Code" src="https://img.shields.io/badge/%20VS%20Code-%20?style=for-the-badge?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij4KICA8cGF0aCBmaWxsPSIjMDA3QUNDIiBkPSJNMTI4IDBMMjU2IDY0djEyOGwtMTI4IDY0TDAgMTkyVjY0eiIvPgogIDxwYXRoIGZpbGw9IiMxRTlGRkYiIGQ9Ik0xMjggMHYyNTZsMTI4LTY0VjY0eiIvPgogIDxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik02NCA5Mmw2NCAzNnYtNzJ6TTY0IDE2NGw2NC0zNnY3MnoiLz4KPC9zdmc+&logoColor=007ACC&color=ffffff&labelColor=ffffff"> -->
+    <img alt="VS Code" src="https://img.shields.io/badge/%20VS%20Code-%20?style=for-the-badge?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0i...snipped...&logoColor=007ACC&color=ffffff&labelColor=ffffff">
     </a>
 </div>
 
