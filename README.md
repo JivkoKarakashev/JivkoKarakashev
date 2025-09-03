@@ -18,11 +18,11 @@
     </a>
 &nbsp;
     <a href="https://www.typescriptlang.org/">
-        <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff">
+        <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20-TypeScript-%20?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&labelColor=ffffff">
     </a>
 &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img alt="HTML5 Badge" src="https://img.shields.io/badge/%20- HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff">
+        <img alt="HTML5 Badge" src="https://img.shields.io/badge/%20-HTML5-%20?style=for-the-badge&logo=html5&logoColor=E34F26&color=E34F26&labelColor=ffffff">
     </a>
 &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -38,7 +38,7 @@
     </a>
 &nbsp;
     <a href="https://angular.dev/">
-        <img alt="Angular Badge" src="https://img.shields.io/badge/%20- Angular-de0837?style=for-the-badge&logo=angular&logoColor=de0837&labelColor=ffffff">
+        <img alt="Angular Badge" src="https://img.shields.io/badge/%20-Angular-%20?style=for-the-badge&logo=angular&logoColor=de0837&color=de0837&labelColor=ffffff">
     </a>
 </div>
 
@@ -46,19 +46,19 @@
 
 <div text-align="center" height="200px">
     <a href="https://portfolio.jivkokarakashev.dev/">
-        <img height="96px" width="auto" src="public/static/icons/website.png" />
+        <img height="48px" width="auto" src="public/static/icons/website.png" />
     </a>
     <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
-        <img height="96px" width="auto" src="public/static/icons/linkedin.svg" />
+        <img height="48px" width="auto" src="public/static/icons/linkedin.svg" />
     </a>
     <a href="https://x.com/JKarakashev">
-        <img height="96px" width="auto" src="public/static/icons/twitter.svg" />
+        <img height="48px" width="auto" src="public/static/icons/twitter.svg" />
     </a>
     <a href="https://discordapp.com/users/446352307106349057">
-        <img height="96px" width="auto" src="public/static/icons/discord.svg" />
+        <img height="48px" width="auto" src="public/static/icons/discord.svg" />
     </a>
     <a href="https://ig.me/m/jivko.karakashev">
-        <img height="96px" width="auto" src="public/static/icons/instagram.svg" />
+        <img height="48px" width="auto" src="public/static/icons/instagram.svg" />
     </a>
 </div>
 
