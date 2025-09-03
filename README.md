@@ -14,7 +14,7 @@
 - Languages:
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20-JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=663399&labelColor=000000">
+        <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20-JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=000000">
     </a>
 &nbsp;
     <a href="https://www.typescriptlang.org/">
@@ -26,7 +26,7 @@
     </a>
 &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img alt="CSS Badge" src="https://img.shields.io/badge/%20- CSS-E34F26?style=for-the-badge&logo=css&logoColor=663399&labelColor=ffffff">
+        <img alt="CSS Badge" src="https://img.shields.io/badge/%20-CSS-%20?style=for-the-badge&logo=css&logoColor=663399&color=663399&labelColor=ffffff">
     </a>
 &nbsp;
 </div>
