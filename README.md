@@ -15,7 +15,7 @@
 - Languages:&nbsp;&nbsp;
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=000000">
+        <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=000000&labelColor=000000">
     </a>
     &nbsp;
     <a href="https://www.typescriptlang.org/">
