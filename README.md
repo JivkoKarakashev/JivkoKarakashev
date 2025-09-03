@@ -13,23 +13,16 @@
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 - Languages:&nbsp;&nbsp;
-<div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+- Languages:&nbsp;&nbsp; <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&logoSize=20&labelColor=000000">
     </a>
     &nbsp;
-    <a href="https://www.typescriptlang.org/">
-        <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&logoSize=20&labelColor=ffffff">
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img alt="HTML5 Badge" src="https://img.shields.io/badge/%20- HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&color=E34F26&logoSize=20&labelColor=ffffff">
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img alt="CSS Badge" src="https://img.shields.io/badge/%20- CSS-E34F26?style=for-the-badge&logo=css&logoColor=663399&color=663399&logoSize=20&labelColor=ffffff">
-    </a>
-    &nbsp;
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript Badge" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&logoSize=20&labelColor=ffffff">
+    </a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5 Badge" src="https://img.shields.io/badge/%20- HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&color=E34F26&logoSize=20&labelColor=ffffff">
+    </a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS Badge" src="https://img.shields.io/badge/%20- CSS-E34F26?style=for-the-badge&logo=css&logoColor=663399&color=663399&logoSize=20&labelColor=ffffff">
+    </a>&nbsp;
 </div>
 
 ## 🌐 Let’s Connect
