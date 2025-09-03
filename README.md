@@ -13,7 +13,7 @@
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E-?logo=javascript&logoColor=000000&color=F7DF1E">
+        <img alt="JavaScript" src="https://img.shields.io/badge/-?logo=javascript&logoColor=000000&color=F7DF1E">
     </a>
 </div>
 
