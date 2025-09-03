@@ -38,7 +38,7 @@
     </a>
 &nbsp;
     <a href="https://angular.dev/">
-        <img alt="Angular Badge" src="https://img.shields.io/badge/%20- Angular-de0837?style=for-the-badge&logo=angular&logoColor=de0837&labelColor=0F0F11">
+        <img alt="Angular Badge" src="https://img.shields.io/badge/%20- Angular-de0837?style=for-the-badge&logo=angular&logoColor=de0837&labelColor=ffffff">
     </a>
 </div>
 
