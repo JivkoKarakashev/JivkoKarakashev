@@ -51,6 +51,9 @@
     <a href="https://nodejs.org/">
         <img alt="NodedDotJs Badge" src="https://img.shields.io/badge/%20-Node.js-%20?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&color=5FA04E&labelColor=ffffff">
     </a>
+    <a href="https://code.visualstudio.com/">
+        <img alt="VS Code" src="https://img.shields.io/badge/%20VS%20Code-%20?style=for-the-badge?logo=visualstudiocode&logoColor=007ACC&color=ffffff&labelColor=ffffff">
+    </a>
 </div>
 
 ## 🌐 Let’s Connect
