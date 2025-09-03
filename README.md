@@ -42,7 +42,7 @@
     </a>
 &nbsp;
     <a href="https://expressjs.com/">
-        <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=383838&color=ffffff&labelColor=ffffff">
+        <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=ffffff&color=ffffff&labelColor=383838">
     </a>
 </div>
 
