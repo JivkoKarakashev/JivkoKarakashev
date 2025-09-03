@@ -10,7 +10,7 @@
 </div>
 
 ## 🛠️ Technologies i have used and practiced
-![Static Badge](https://img.shields.io/badge/JavaScript?logo=javascript&logoColor=%23F7DF1E&logoSize=auto&color=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
