@@ -14,10 +14,10 @@
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="JavaScript" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=000000">
-    </a>
+        <img alt="JavaScript" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&logoWidth=20&labelColor=000000">
+    </a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="TypeScript" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=F7DF1E&labelColor=000000">
+        <img alt="TypeScript" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&logoWidth=20&labelColor=000000">
     </a>
 </div>
 
