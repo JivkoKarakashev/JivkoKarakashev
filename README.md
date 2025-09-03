@@ -34,7 +34,7 @@
 - Frameworks:
 <div>
     <a href="https://react.dev/">
-        <img alt="React Badge" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&color=61DAFB&labelColor=23272f">
+        <img alt="React Badge" src="https://img.shields.io/badge/-React-?style=for-the-badge&logo=react&logoColor=61DAFB&color=61DAFB&labelColor=23272f">
     </a>
 &nbsp;
     <a href="https://angular.dev/">
