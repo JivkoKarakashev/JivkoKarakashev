@@ -10,11 +10,14 @@
 </div>
 
 ## 🛠️ Technologies i have used and practiced
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="JavaScript" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=000000">
+        <img alt="JavaScript" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=000000">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img alt="TypeScript" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=F7DF1E&labelColor=000000">
     </a>
 </div>
 
