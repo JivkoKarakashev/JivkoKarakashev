@@ -52,8 +52,7 @@
         <img alt="NodedDotJs Badge" src="https://img.shields.io/badge/%20-Node.js-%20?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&color=5FA04E&labelColor=ffffff">
     </a>
     <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" src="https://img.shields.io/badge/-?color=007ACC&logoSvg=%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20256%20256%22%3E%0A%20%20%3Cpath%20fill%3D%22%23007ACC%22%20d%3D%22M128%200L256%2064v128l-128%2064L0%20192V64z%22%2F%3E%0A%20%20%3Cpath%20fill%3D%22%231E9FFF%22%20d%3D%22M128%200v256l128-64V64z%22%2F%3E%0A%20%20%3Cpath%20fill%3D%22%23FFF%22%20d%3D%22M64%2092l64%2036v-72zM64%20164l64-36v72z%22%2F%3E%0A%3C%2Fsvg%3E">
-    <!-- <img alt="VS Code" src="https://img.shields.io/badge/%20VS%20Code-%20?style=for-the-badge&logoSvg=%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20256%20256%22%3E%0A%20%20%3Cpath%20fill%3D%22%23007ACC%22%20d%3D%22M128%200L256%2064v128l-128%2064L0%20192V64z%22%2F%3E%0A%20%20%3Cpath%20fill%3D%22%231E9FFF%22%20d%3D%22M128%200v256l128-64V64z%22%2F%3E%0A%20%20%3Cpath%20fill%3D%22%23FFF%22%20d%3D%22M64%2092l64%2036v-72zM64%20164l64-36v72z%22%2F%3E%0A%3C%2Fsvg%3E&logoColor=007ACC&color=ffffff&labelColor=ffffff"> -->
+        <img height="28px" width="auto" alt="VS Code" src="/public/static/badges/vscode-badge.svg">
     </a>
 </div>
 
