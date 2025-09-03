@@ -12,14 +12,14 @@
 ## 🛠️ Technologies i have used and practiced
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
-- Languages:&nbsp;&nbsp;
+- Languages:
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20- JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000">
     </a>
     &nbsp;
     <a href="https://www.typescriptlang.org/">
-        <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&labelColor=ffffff">
+        <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20- TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff">
     </a>
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -31,7 +31,8 @@
     </a>
     &nbsp;
 </div>
-- Frameworks:&nbsp;&nbsp;
+
+- Frameworks:
 <div>
     <a href="https://react.dev/">
         <img alt="React Badge" src="https://img.shields.io/badge/%20- React-F7DF1E?style=for-the-badge&logo=react&logoColor=61DAFB&color=61DAFB&labelColor=23272f">
