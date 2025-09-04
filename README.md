@@ -81,7 +81,7 @@
 - Databases:
 <div>
     <a href="https://mongodb.com/">
-        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=mongodb&logoColor=47A248&color=47A248&labelColor=ffffff">
+        <img alt="MongoDB Badge" src="https://img.shields.io/badge/%20-MongoDB-%20?style=for-the-badge&logo=mongodb&logoColor=47A248&color=47A248&labelColor=ffffff">
     </a>
 </div>
 
