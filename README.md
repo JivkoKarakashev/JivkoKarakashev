@@ -14,7 +14,7 @@
 - Languages:
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20-JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=ffffff">
+        <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20-JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=23272f">
     </a>
     <a href="https://www.typescriptlang.org/">
         <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20-TypeScript-%20?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&labelColor=ffffff">
@@ -30,7 +30,7 @@
 - Frameworks:
 <div>
     <a href="https://react.dev/">
-        <img alt="React Badge" src="https://img.shields.io/badge/%20-React-%20?style=for-the-badge&logo=react&logoColor=61DAFB&color=61DAFB&labelColor=ffffff">
+        <img alt="React Badge" src="https://img.shields.io/badge/%20-React-%20?style=for-the-badge&logo=react&logoColor=61DAFB&color=61DAFB&labelColor=23272f">
     </a>
     <a href="https://angular.dev/">
         <img alt="Angular Badge" src="https://img.shields.io/badge/%20-Angular-%20?style=for-the-badge&logo=angular&logoColor=de0837&color=de0837&labelColor=ffffff">
