@@ -52,7 +52,7 @@
         <img alt="NPM Badge" src="https://img.shields.io/badge/%20-NPM-%20?style=for-the-badge&logo=npm&logoColor=ffffff&color=ffffff&labelColor=CB3837">
     </a>
     <a href="https://git-scm.com/">
-        <img alt="Git Badge" src="https://img.shields.io/badge/%20-Git-%20?style=for-the-badge&logo=git&logoColor=#F05032&color=F05032&labelColor=CB3837">
+        <img alt="Git Badge" src="https://img.shields.io/badge/%20-Git-%20?style=for-the-badge&logo=git&logoColor=F05032&color=F05032&labelColor=CB3837">
     </a>
 </div>
 
