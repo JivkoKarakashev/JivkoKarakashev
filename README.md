@@ -90,16 +90,16 @@
 <div text-align="center" height="200px">
     <a href="https://portfolio.jivkokarakashev.dev/">
         <img height="48px" width="auto" src="public/static/icons/website.png" />
-    </a>
+    </a>&emsp;
     <a href="https://linkedin.com/in/jivko-karakashev-1811202b0">
         <img height="48px" width="auto" src="public/static/icons/linkedin.svg" />
-    </a>
+    </a>&emsp;
     <a href="https://x.com/JKarakashev">
         <img height="48px" width="auto" src="public/static/icons/twitter.svg" />
-    </a>
+    </a>&emsp;
     <a href="https://discordapp.com/users/446352307106349057">
         <img height="48px" width="auto" src="public/static/icons/discord.svg" />
-    </a>
+    </a>&emsp;
     <a href="https://ig.me/m/jivko.karakashev">
         <img height="48px" width="auto" src="public/static/icons/instagram.svg" />
     </a>
