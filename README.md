@@ -83,7 +83,7 @@
         <img alt="JSON Web Token Badge" src="https://img.shields.io/badge/%20-JWT-%20?style=for-the-badge&logo=jsonwebtokens&logoColor=00eade&color=00eade&labelColor=ffffff">
     </a>
     <a href="https://lit.dev/docs/v1/lit-html/introduction/">
-        <img alt="lit-html Badge" src="https://img.shields.io/badge/%20-lit-html-%20?style=for-the-badge&logo=lit&logoColor=262f93&color=262f93&labelColor=ffffff">
+        <img alt="lit-html Badge" src="https://img.shields.io/badge/%20-lit--html-%20?style=for-the-badge&logo=lit&logoColor=262f93&color=262f93&labelColor=ffffff">
     </a>
 </div><br/>
 
