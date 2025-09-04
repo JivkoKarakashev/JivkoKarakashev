@@ -16,7 +16,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20-JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=23272f">
     </a>
-    <a href="https://www.typescriptlang.org/">
+    <a href="https://typescriptlang.org/">
         <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20-TypeScript-%20?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&labelColor=ffffff">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -48,7 +48,7 @@
     <a href="https://nodejs.org/">
         <img alt="NodedDotJs Badge" src="https://img.shields.io/badge/%20-Node.js-%20?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&color=5FA04E&labelColor=ffffff">
     </a>
-    <a href="https://www.npmjs.com/">
+    <a href="https://npmjs.com/">
         <img alt="NPM Badge" src="https://img.shields.io/badge/%20-NPM-%20?style=for-the-badge&logo=npm&logoColor=ffffff&color=ffffff&labelColor=CB3837">
     </a>
     <a href="https://git-scm.com/">
@@ -73,12 +73,15 @@
     <a href="https://mongoosejs.com/">
         <img alt="Mongoose Badge" src="https://img.shields.io/badge/%20-Mongoose-%20?style=for-the-badge&logo=mongoose&logoColor=880000&color=880000&labelColor=ffffff">
     </a>
+    <a href="https://nodemon.io/">
+        <img alt="Mongoose Badge" src="https://img.shields.io/badge/%20-Mongoose-%20?style=for-the-badge&logo=mongoose&logoColor=CB3837&color=76D04B&labelColor=76D04B">
+    </a>
 </div><br/>
 
 - Databases:
 <div>
-    <a href="https://www.mongodb.com/">
-        <img alt="MongoDB Badge" src="https://img.shields.io/badge/%20-MongoDB-%20?style=for-the-badge&logo=mongodb&logoColor=47A248&color=47A248&labelColor=ffffff">
+    <a href="https://mongodb.com/">
+        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=nodemon&logoColor=47A248&color=47A248&labelColor=ffffff">
     </a>
 </div>
 
