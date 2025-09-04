@@ -25,7 +25,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img alt="CSS Badge" src="https://img.shields.io/badge/%20-CSS-%20?style=for-the-badge&logo=css&logoColor=663399&color=663399&labelColor=ffffff">
     </a>
-</div>
+</div><br/>
 
 - Frameworks:
 <div>
@@ -38,7 +38,7 @@
     <a href="https://expressjs.com/">
         <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=000000&color=23272f&labelColor=ffffff">
     </a>
-</div>
+</div><br/>
 
 - Tools:
 <div>
@@ -62,6 +62,20 @@
     </a>
     <a href="https://cloud.google.com/">
         <img alt="Google Cloud Badge" src="https://img.shields.io/badge/%20-Google%20Cloud-%20?style=for-the-badge&logo=googlecloud&logoColor=4285F4&color=4285F4&labelColor=ffffff">
+    </a>
+</div><br/>
+
+- Libraries:
+<div>
+    <a href="https://mongoosejs.com/">
+        <img alt="Mongoose Badge" src="https://img.shields.io/badge/%20-Mongoose-%20?style=for-the-badge&logo=mongoose&logoColor=880000&color=880000&labelColor=ffffff">
+    </a>
+</div><br/>
+
+- Databases:
+<div>
+    <a href="https://www.mongodb.com/">
+        <img alt="MongoDB Badge" src="https://img.shields.io/badge/%20-MongoDB-%20?style=for-the-badge&logo=mongodb&logoColor=47A248&color=47A248&labelColor=ffffff">
     </a>
 </div>
 
