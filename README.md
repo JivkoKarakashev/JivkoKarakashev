@@ -57,6 +57,9 @@
     <a href="https://eslint.org/">
         <img alt="ESLint Badge" src="https://img.shields.io/badge/%20-ESLint-%20?style=for-the-badge&logo=eslint&logoColor=4B32C3&color=4B32C3&labelColor=ffffff">
     </a>
+    <a href="https://firebase.google.com/">
+        <img alt="Firebase Badge" src="https://img.shields.io/badge/%20-Firebase-%20?style=for-the-badge&logo=firebase&logoColor=ffffff&color=DD2C00&labelColor=DD2C00">
+    </a>
 </div>
 
 ## 🌐 Let’s Connect
