@@ -79,6 +79,9 @@
     <a href="https://handlebarsjs.com/">
         <img alt="HandlebarsJS Badge" src="https://img.shields.io/badge/%20-Handlebars-%20?style=for-the-badge&logo=handlebarsdotjs&logoColor=322214&color=322214&labelColor=ffffff">
     </a>
+    <a href="https://jwt.io/">
+        <img alt="JSON Web Token Badge" src="https://img.shields.io/badge/%20-JWT-%20?style=for-the-badge&logo=jsonwebtokens&logoColor=00eade&color=00eade&labelColor=ffffff">
+    </a>
 </div><br/>
 
 - Databases:
