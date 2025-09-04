@@ -74,7 +74,10 @@
         <img alt="Mongoose Badge" src="https://img.shields.io/badge/%20-Mongoose-%20?style=for-the-badge&logo=mongoose&logoColor=880000&color=880000&labelColor=ffffff">
     </a>
     <a href="https://nodemon.io/">
-        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=nodemon&logoColor=23272f&color=76D04B&labelColor=76D04B">
+        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=nodemon&logoColor=76D04B&color=76D04B&labelColor=ffffff">
+    </a>
+    <a href="https://handlebarsjs.com/">
+        <img alt="HandlebarsJS Badge" src="https://img.shields.io/badge/%20-Handlebars-%20?style=for-the-badge&logo=handlebarsdotjs&logoColor=322214&color=322214&labelColor=ffffff">
     </a>
 </div><br/>
 
