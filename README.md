@@ -38,6 +38,9 @@
     <a href="https://expressjs.com/">
         <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=000000&color=23272f&labelColor=ffffff">
     </a>
+    <a href="https://mochajs.org/">
+        <img alt="Mocha Badge" src="https://img.shields.io/badge/%20-Mocha-%20?style=for-the-badge&logo=mocha&logoColor=8D6748&color=8D6748&labelColor=ffffff">
+    </a>
 </div><br/>
 
 - Tools:
