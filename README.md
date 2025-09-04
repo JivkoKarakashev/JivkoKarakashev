@@ -36,7 +36,7 @@
         <img alt="Angular Badge" src="https://img.shields.io/badge/%20-Angular-%20?style=for-the-badge&logo=angular&logoColor=de0837&color=de0837&labelColor=ffffff">
     </a>
     <a href="https://expressjs.com/">
-        <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=000000&color=383838&labelColor=ffffff">
+        <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=000000&color=23272f&labelColor=ffffff">
     </a>
 </div>
 
