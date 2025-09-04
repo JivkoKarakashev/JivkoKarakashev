@@ -92,7 +92,7 @@
         <img alt="Chai Badge" src="https://img.shields.io/badge/%20-Chai-%20?style=for-the-badge&logo=chai&logoColor=A30701&color=A30701&labelColor=ffffff">
     </a>
     <a href="https://fontawesome.com/">
-        <img alt="Font Awesome Badge" src="https://img.shields.io/badge/%20-Chai-%20?style=for-the-badge&logo=fontawesome&logoColor=538DD7&color=538DD7&labelColor=ffffff">
+        <img alt="Font Awesome Badge" src="https://img.shields.io/badge/%20-Font%20Awesome-%20?style=for-the-badge&logo=fontawesome&logoColor=538DD7&color=538DD7&labelColor=ffffff">
     </a>
 </div><br/>
 
