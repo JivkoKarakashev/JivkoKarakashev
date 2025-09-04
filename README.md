@@ -49,7 +49,10 @@
         <img alt="NodedDotJs Badge" src="https://img.shields.io/badge/%20-Node.js-%20?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&color=5FA04E&labelColor=ffffff">
     </a>
     <a href="https://www.npmjs.com/">
-        <img alt="NPMJS Badge" src="https://img.shields.io/badge/%20-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff&color=ffffff&labelColor=CB3837">
+        <img alt="NPM Badge" src="https://img.shields.io/badge/%20-NPM-%20?style=for-the-badge&logo=npm&logoColor=ffffff&color=ffffff&labelColor=CB3837">
+    </a>
+    <a href="https://git-scm.com/">
+        <img alt="Git Badge" src="https://img.shields.io/badge/%20-Git-%20?style=for-the-badge&logo=git&logoColor=#F05032&color=F05032&labelColor=CB3837">
     </a>
 </div>
 
