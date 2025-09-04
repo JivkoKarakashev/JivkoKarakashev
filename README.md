@@ -88,6 +88,9 @@
     <a href="https://lit.dev/docs/v1/lit-html/introduction/">
         <img alt="lit-html Badge" src="https://img.shields.io/badge/%20-lit--html-%20?style=for-the-badge&logo=lit&logoColor=262f93&color=262f93&labelColor=ffffff">
     </a>
+    <a href="https://chaijs.com/">
+        <img alt="Chai Badge" src="https://img.shields.io/badge/%20-Chai-%20?style=for-the-badge&logo=chai&logoColor=A30701&color=A30701&labelColor=ffffff">
+    </a>
 </div><br/>
 
 - Databases:
