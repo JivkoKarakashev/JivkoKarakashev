@@ -16,19 +16,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img alt="JavaScript Badge" src="https://img.shields.io/badge/%20-JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7DF1E&labelColor=000000">
     </a>
-&nbsp;
     <a href="https://www.typescriptlang.org/">
         <img alt="TypeScript Badge" src="https://img.shields.io/badge/%20-TypeScript-%20?style=for-the-badge&logo=typescript&logoColor=3178C6&color=3178C6&labelColor=ffffff">
     </a>
-&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img alt="HTML5 Badge" src="https://img.shields.io/badge/%20-HTML5-%20?style=for-the-badge&logo=html5&logoColor=E34F26&color=E34F26&labelColor=ffffff">
     </a>
-&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img alt="CSS Badge" src="https://img.shields.io/badge/%20-CSS-%20?style=for-the-badge&logo=css&logoColor=663399&color=663399&labelColor=ffffff">
     </a>
-&nbsp;
 </div>
 
 - Frameworks:
@@ -36,11 +32,9 @@
     <a href="https://react.dev/">
         <img alt="React Badge" src="https://img.shields.io/badge/%20-React-%20?style=for-the-badge&logo=react&logoColor=61DAFB&color=61DAFB&labelColor=23272f">
     </a>
-&nbsp;
     <a href="https://angular.dev/">
         <img alt="Angular Badge" src="https://img.shields.io/badge/%20-Angular-%20?style=for-the-badge&logo=angular&logoColor=de0837&color=de0837&labelColor=ffffff">
     </a>
-&nbsp;
     <a href="https://expressjs.com/">
         <img alt="ExpressJS Badge" src="https://img.shields.io/badge/%20-ExpressJS-%20?style=for-the-badge&logo=express&logoColor=000000&color=383838&labelColor=ffffff">
     </a>
@@ -48,11 +42,14 @@
 
 - Tools:
 <div>
+    <a href="https://code.visualstudio.com/">
+        <img height="28px" width="auto" alt="VS Code" src="/public/static/badges/vscode-badge.svg">
+    </a>
     <a href="https://nodejs.org/">
         <img alt="NodedDotJs Badge" src="https://img.shields.io/badge/%20-Node.js-%20?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&color=5FA04E&labelColor=ffffff">
     </a>
-    <a href="https://code.visualstudio.com/">
-        <img height="28px" width="auto" alt="VS Code" src="/public/static/badges/vscode-badge.svg">
+    <a href="https://www.npmjs.com/">
+        <img alt="NPMJS Badge" src="https://img.shields.io/badge/%20-NPM-%20?style=for-the-badge&logo=npms&logoColor=ffffff&color=CB3837&labelColor=CB3837">
     </a>
 </div>
 
