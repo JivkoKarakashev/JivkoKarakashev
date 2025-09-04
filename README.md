@@ -54,6 +54,9 @@
     <a href="https://git-scm.com/">
         <img alt="Git Badge" src="https://img.shields.io/badge/%20-Git-%20?style=for-the-badge&logo=git&logoColor=F05032&color=F05032&labelColor=ffffff">
     </a>
+    <a href="https://eslint.org/">
+        <img alt="ESLint Badge" src="https://img.shields.io/badge/%20-ESLint-%20?style=for-the-badge&logo=eslint&logoColor=4B32C3&color=4B32C3&labelColor=ffffff">
+    </a>
 </div>
 
 ## 🌐 Let’s Connect
