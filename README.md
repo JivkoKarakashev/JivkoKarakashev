@@ -74,14 +74,14 @@
         <img alt="Mongoose Badge" src="https://img.shields.io/badge/%20-Mongoose-%20?style=for-the-badge&logo=mongoose&logoColor=880000&color=880000&labelColor=ffffff">
     </a>
     <a href="https://nodemon.io/">
-        <img alt="Mongoose Badge" src="https://img.shields.io/badge/%20-Mongoose-%20?style=for-the-badge&logo=mongoose&logoColor=CB3837&color=76D04B&labelColor=76D04B">
+        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=nodemon&logoColor=23272f&color=76D04B&labelColor=76D04B">
     </a>
 </div><br/>
 
 - Databases:
 <div>
     <a href="https://mongodb.com/">
-        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=nodemon&logoColor=47A248&color=47A248&labelColor=ffffff">
+        <img alt="Nodemon Badge" src="https://img.shields.io/badge/%20-Nodemon-%20?style=for-the-badge&logo=mongodb&logoColor=47A248&color=47A248&labelColor=ffffff">
     </a>
 </div>
 
