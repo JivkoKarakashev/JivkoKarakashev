@@ -120,7 +120,7 @@
     </a>
 </div>
 
-## You can view my projects at the following web link
+## <span>:link:<span> View my projects at the following web link
 <a href="https://portfolio.jivkokarakashev.dev/projects">
-    <span>:link:<span>
+    <img height="48px" width="auto" src="public/static/icons/list-view.png" />
 </a>
