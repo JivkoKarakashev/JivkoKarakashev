@@ -5,11 +5,11 @@
         <img height="165px" width="auto" src="https://github-readme-streak-stats-pi-green.vercel.app?user=JivkoKarakashev&theme=one-dark-pro" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="165px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
+        <img height="165px" width="auto" src="github-top-languages-card.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
     </a>
 </div>
 
-## 🛠️ Technologies i have used and practiced
+## 🛠️ Technologies i'm familiar with
 
 - Languages:
 <div>
