@@ -1,11 +1,11 @@
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&fontAlignY=20&text=Hi%20there%20👋%20I%20am%20Jivko&animation=scaleIn" />
 
 <div text-align="center" height="200px">
-    <a href="https://git.io/streak-stats">
+    <a href="https://github-readme-streak-stats-pi-green.vercel.app?user=JivkoKarakashev&theme=one-dark-pro">
         <img height="165px" width="auto" src="https://github-readme-streak-stats-pi-green.vercel.app?user=JivkoKarakashev&theme=one-dark-pro" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="165px" width="auto" src="github-top-languages-card.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact" />
+    <a href="https://github-top-languages-card.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact&bg_color=23272e&text_color=fff&border_color=bebdbe">
+        <img height="165px" width="auto" src="https://github-top-languages-card.vercel.app/api/top-langs/?username=JivkoKarakashev&layout=compact&bg_color=23272e&text_color=fff&border_color=bebdbe" />
     </a>
 </div>
 
