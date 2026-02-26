@@ -97,6 +97,9 @@
     <a href="https://cloudflare.com/">
         <img alt="Cloudflare Badge" src="https://img.shields.io/badge/%20-Cloudflare-%20?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACx0lEQVR4nO2XP2gUQRTGJxqjxiBGFIm5eyNRm6hYBIJNdjQ2gq2CYGMlijbBwkBuZkQsjJ2NnZV6s1kLUTFCGgsLEQT/oCDGf0SCXm7mct7ukZigK7OXi7noJbm42UsxP3jNFbvfN+97b+cQMhgMBoPBYDAYZpLm8a2KwXlJ4aGi+IuiMKYY5BSDd5KBkAl84uu5LevQciPHmzYpBtclgwnFsD9XSYZlhuJun6NatBzI0HiHZDAyn/C/isJT1bM9XmXxcFgyGK9YPJvuxsdMzzZcFfGKx3YX8r048apogsLzTxyviVS8z9GKIAL/KV5Nm8BXlk7sybZV+rQzidgen7fW6d9UAh8LS7wqzMOY3mDhCuetdYrCJUlhdMaLvkuGexWFJ6EaYPrZ+EJ44hGqkRTfD13knAMNL0IzkGZwJkrxamojZZ19G90k6XLtjuN5p6Pdd46uXJQByfD7qA0oii/m+8gpzyb+jEq5Nrk8eodsWLD4oa7Y2iqc/q8shxbXJndnGZgqK+2K/Qcryf9kxPm/pd/t2da3fxsgviusyVySHCkrXCXiu/QmUAw7kRqgeFjy5pjvoxrXJhPlDBRMkLxnH9hbIjzbDY36BHQbI889g7cjieadRS2uIA/mMhCUsB6X3iIpfhP+qQbfi0xpwZCk+ENQDPolhbPFD2ORlEMaPJtc9QR55QkyUq4j0/OgGB5YcE4p/pnm0Jmm0CY5tOqhC6obGnUN86Z6FDL+vbb6rEN2eILcnDXU14Kb5JIPJ4UfszuhM68ovp3hLVAi9hGpzQly2rPJQHD6wposHyXrtd71fdFnvmR4B/WlUIvPO53Nnk1ezpv/P3MwioK/fNU0wLCvuyBvtK/3hDW4YPGFlTqOdHurbSDFNze4gvRWIj4wYFufkaKQqrKBZ37/odWeILlKDXjCSoa9MAwGg8FgMBgMKDp+A/U+FaLPDoWkAAAAAElFTkSuQmCC&color=F38020&labelColor=ffffff">
     </a>
+    <a href="https://vercel.com/">
+        <img alt="Vercel Badge" src="https://img.shields.io/badge/%20-Vercel-%20?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCmFyaWEtbGFiZWw9IlZlcmNlbCIgcm9sZT0iaW1nIgp2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGgKZD0iTTAgMEg1MTJWNTEySDAiCmZpbGw9IiNmZmYiLz48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMjU2IDk2TDQxNiAzNjhIOTZ6Ii8+PC9zdmc+&color=F38020&labelColor=ffffff">
+    </a>
 </div><br/>
 
 - Databases:
